@@ -16,8 +16,7 @@ Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Te
 
 
 <img src="https://img.icons8.com/color/24/000000/find-matching-job.png" width="22px"/> Currently I'm looking for Intern Opprtunities in Data Analytics/ Data Engineer Roles.
-<iframe src="https://gifer.com/embed/Dtf" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-  
+<iframe src="https://gifer.com/embed/Dtf" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>  
 - 💼 Reach out to me ? do reach.
 - 💬 Ask me about anything, i am happy to help;
 
