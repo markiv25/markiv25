@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://github.com/markiv25/markiv25/blob/main/Assets/favpng_tomato-cartoon.png" width="100px">
-<a href="https://discord.gg/XTW52Kt">
+<a href="(mailto: vp3230@rit.edu)">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
