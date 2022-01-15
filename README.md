@@ -13,6 +13,7 @@
 <br />
 
 Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Technolgy Analytics at Rochester Institute of Technology(RIT).
+<br/ >
 <img src="https://img.icons8.com/color/24/000000/find-matching-job.png" width="30px"/> Currently I'm looking for Intern Opprtunities in Data Analytics/ Data Engineer Roles.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
