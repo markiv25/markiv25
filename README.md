@@ -1,29 +1,24 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://github.com/markiv25/markiv25/blob/main/Assets/favpng_tomato-cartoon.png" width="100px">
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <a align="left" alt="Abhishek's Discord" width="22px" :e-mail: />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Vikram Parmar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+
+<a href="https://www.linkedin.com/in/vikramparmar25/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-hi, i'm [Vikram Parmar], a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Technolgy Analytics at Rochester Institute of Technology(RIT).
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+Currently I'm looking for Intern Opprtunities in Data Analytics/ Data Engineer Roles.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 Reach out to me ? do reach, [email](mailto: vp3230@rit.edu) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
