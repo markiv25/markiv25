@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://github.com/markiv25/markiv25/blob/main/Assets/favpng_tomato-cartoon.png" width="100px">
-<a href="vp3230@rit.edu">
+<a href="mailto:vp3230@rit.edu">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
@@ -38,11 +38,11 @@ Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Te
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
+🚧 About Me Short 
 <!-- TODO-IST:START -->
 🏆  Masters, Information Technology and Analytics , RIT        
 🌸  Bahelors, Electronics & Telecommunication, SIES GST, Mumbai University.                    
-⏳  Working on Power Bi and Kafka.
+⏳  Working on Power BI and Kafka.
 <!-- TODO-IST:END -->
 
 
