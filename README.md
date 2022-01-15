@@ -39,16 +39,10 @@ Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Te
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
+🏆  Masters, Information Technology and ANalytics , RIT        
+🌸  Bahelors, Electronics & Telecommunication, SIES GST, Mumbai University.                    
+⏳  Working on Power Bi and Kafka.
 <!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
