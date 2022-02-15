@@ -34,7 +34,6 @@ Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Te
 
 
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 About Me Short 
 <!-- TODO-IST:START -->
