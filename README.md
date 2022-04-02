@@ -34,7 +34,7 @@ Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Te
 <code><img height="40" src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo-300x200.png"> </code>
 <code><img height="40" src="https://crackkits.com/wp-content/uploads/2021/03/ArcGIS-Pro-Crack.png"> </code>
 <code><img height="40" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/mongodb.png?itok=pYTrNt-U"> </code>
-<code><img height="40" src="https://icon-library.com/images/jquery-icon/jquery-icon-21.jpg"> </code>
+<code><img height="50" src="https://icon-library.com/images/jquery-icon/jquery-icon-21.jpg"> </code>
 <code><img height="40" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> </code>
 
 
