@@ -33,6 +33,8 @@ Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Te
 <code><img height="40" src="https://adamlangley.com.au/wp-content/uploads/2019/12/php-logo-678x381.png"> </code>
 <code><img height="40" src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo-300x200.png"> </code>
 <code><img height="40" src="https://crackkits.com/wp-content/uploads/2021/03/ArcGIS-Pro-Crack.png"> </code>
+<code><img height="40" src="https://camo.githubusercontent.com/29a942d5b4d90d058090fa0bdb8722711d0905a11cd98e3a9e9b2a94031f31f4/68747470733a2f2f696e66696e617070732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f6d6f6e676f64622d6c6f676f2e706e67"> </code>
+
 
 
 
