@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right"> <img src="https://github.com/markiv25/markiv25/blob/main/Assets/favpng_tomato-cartoon.png" width="100px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> <img align="right" src="https://github.com/markiv25/markiv25/blob/main/Assets/favpng_tomato-cartoon.png" width="100px">
 <a href="mailto:vp3230@rit.edu">
   <img align="left" alt="Vikrams's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
