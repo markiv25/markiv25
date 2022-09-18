@@ -15,7 +15,7 @@
 Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Technolgy Analytics at Rochester Institute of Technology(RIT).
 
 
-<img src="https://img.icons8.com/color/24/000000/find-matching-job.png" width="22px"/> Currently I'm looking for Intern Opprtunities in Data Analytics/ Data Engineer Roles.
+<img src="https://img.icons8.com/color/24/000000/find-matching-job.png" width="22px"/> Currently I'm looking for Fulltime Opprtunities in Data Analytics/ Data Engineer Roles.
   ![Alt text](https://i.gifer.com/Dtf.gif?)
 - 💼 Reach out to me ? do reach.
 - 💬 Ask me about anything, i am happy to help;
