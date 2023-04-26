@@ -12,7 +12,7 @@
 
 <br />
 
-Hello, I'm Vikram Parmar, currenly I am a persuing my mastsers in Information Technolgy Analytics at Rochester Institute of Technology(RIT).
+Hello, I'm Vikram Parmar, a Data Engineer at Anuvu I completed my masters in Information Technolgy Analytics at Rochester Institute of Technology(RIT).
 
 
 <img src="https://img.icons8.com/color/24/000000/find-matching-job.png" width="22px"/> Currently I'm looking for Fulltime Opprtunities in Data Analytics/ Data Engineer Roles.
