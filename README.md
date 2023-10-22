@@ -10,7 +10,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=markiv25.markiv25)
 
-<br />
+<br/>
 
 Hello, I'm Vikram Parmar, currently working as Data Engineer at Anuvu I completed my masters in Information Technolgy Analytics at Rochester Institute of Technology(RIT).
 
