@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vikramparmar25/">
-  <img align="left" alt="Vikrams's LinkedIN" width="40px" height="30px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png"/> 
+  <img align="left" alt="Vikrams's LinkedIN" width="50px" height="20px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png"/> 
 </a>
 
 
