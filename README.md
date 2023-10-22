@@ -4,6 +4,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vikramparmar25/">
+  <img align="left" alt="Vikrams's LinkedIN" width="22px" src="https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg"/> 
 </a>
 
 
