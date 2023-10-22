@@ -31,9 +31,10 @@ Hello, I'm Vikram Parmar, currently working as Data Engineer at Anuvu I complete
 <code><img height="40" src="https://adamlangley.com.au/wp-content/uploads/2019/12/php-logo-678x381.png"> </code>
 <code><img height="40" src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo-300x200.png"> </code>
 <code><img height="40" src="https://crackkits.com/wp-content/uploads/2021/03/ArcGIS-Pro-Crack.png"> </code>
-<code><img height="40" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/mongodb.png?itok=pYTrNt-U"> </code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/375px-MongoDB_Fores-Green.svg.png"> </code>
 <code><img height="50" src="https://icon-library.com/images/jquery-icon/jquery-icon-21.jpg"> </code>
-<code><img height="40" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> </code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/330px-Cassandra_logo.svg.png"> </code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/375px-Apache_Spark_logo.svg.png"> </code>
 
 
 
