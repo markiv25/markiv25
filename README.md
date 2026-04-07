@@ -78,4 +78,4 @@ Maintains and optimizes end-to-end data pipelines for ingesting, processing, and
 
 ---
 
-![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markiv25&show_icons=true&theme=dark)
+![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markiv25&show_icons=true&theme=dark&hide_border=true&count_private=true)
