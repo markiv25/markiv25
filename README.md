@@ -54,7 +54,6 @@ Maintains and optimizes end-to-end data pipelines for ingesting, processing, and
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Visualization & BI**
@@ -78,4 +77,4 @@ Maintains and optimizes end-to-end data pipelines for ingesting, processing, and
 
 ---
 
-![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markiv25&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markiv25&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://streak-stats.demolab.com/?user=markiv25&theme=dark)
