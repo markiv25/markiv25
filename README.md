@@ -11,7 +11,7 @@
 
 ---
 
-🧑‍💻 **Data Engineer @ Anuvu** | M.S. Information Technology & Analytics, RIT | DBA Candidate @ Westcliff University
+🧑‍💻 **Data Engineer @ Anuvu** | M.S. Information Technology & Analytics, RIT | DBA @ Westcliff University
 
 I build robust data pipelines and architect scalable data platforms for inflight entertainment systems serving airlines like Southwest, Turkish, and Air France. Passionate about modernizing legacy infrastructure and turning raw flight data into reliable, actionable insights.
 
