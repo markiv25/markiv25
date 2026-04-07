@@ -1,61 +1,61 @@
-### Hey there  <img align="right" src="https://github.com/markiv25/markiv25/blob/main/Assets/favpng_tomato-cartoon.png" width="100px">
+### Hi there, I'm Vikram Parmar 👋 <img align="right" src="https://github.com/markiv25/markiv25/blob/main/Assets/favpng_tomato-cartoon.png" width="80px">
+
 <a href="mailto:vp3230@rit.edu">
-  <img align="left" alt="Vikrams's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  <img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/vikramparmar25/">
-  <img align="left" alt="Vikrams's LinkedIN" width="55px" height="20px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png"/> 
+  <img align="left" alt="LinkedIn" width="55px" height="20px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png"/>
 </a>
 
+<br/><br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=markiv25.markiv25)
+---
 
-Hello, I'm Vikram Parmar, currently working as Data Engineer at Anuvu I completed my masters in Information Technolgy Analytics at Rochester Institute of Technology(RIT).
+🧑‍💻 **Data Engineer @ Anuvu** | M.S. Information Technology & Analytics, RIT
 
+I build robust data pipelines and architect scalable data platforms. Passionate about turning raw data into reliable, actionable infrastructure.
 
-<img src="https://img.icons8.com/color/24/000000/find-matching-job.png" width="22px"/> Currently I'm looking for Fulltime Opprtunities in Data Analytics/ Data Engineer Roles.
-  ![Alt text](https://i.gifer.com/Dtf.gif?)
-- 💼 Reach out to me ? do reach.
-- 💬 Ask me about anything, i am happy to help;
+- 🔭 Currently working on **Kafka streaming pipelines** and **Power BI** dashboards
+- 🌱 Deepening expertise in **data architecture**, **distributed systems**, and **real-time ingestion**
+- 💬 Ask me about **Python**, **Spark**, **SQL**, or anything data engineering
+- 📫 Reach me at [vp3230@rit.edu](mailto:vp3230@rit.edu) or [LinkedIn](https://www.linkedin.com/in/vikramparmar25/)
+- ⚡ Fun fact: I debug pipelines faster than I cook 🍅
 
-**languages and tools:**  
-<code><img height="40" src="https://www.pngitem.com/pimgs/m/614-6143064_hitachi-ventara-pentaho-data-integration-logo-hd-png.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67"> </code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://adamlangley.com.au/wp-content/uploads/2019/12/php-logo-678x381.png"> </code>
-<code><img height="40" src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo-300x200.png"> </code>
-<code><img height="40" src="https://crackkits.com/wp-content/uploads/2021/03/ArcGIS-Pro-Crack.png"> </code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/375px-MongoDB_Fores-Green.svg.png"> </code>
-<code><img height="50" src="https://icon-library.com/images/jquery-icon/jquery-icon-21.jpg"> </code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/330px-Cassandra_logo.svg.png"> </code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/375px-Apache_Spark_logo.svg.png"> </code>
+---
 
+### 🛠️ Languages & Tools
 
+**Core Stack**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+**Databases & Storage**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Visualization & BI**
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+**Other Tools**
 
-🚧 About Me Short 
-<!-- TODO-IST:START -->
-🏆  Masters, Information Technology and Analytics , RIT        
-🌸  Bahelors, Electronics & Telecommunication, SIES GST, Mumbai University.                    
-⏳  Working on Power BI and Kafka.
-<!-- TODO-IST:END -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+---
 
+### 🎓 Education
 
+🏆 M.S. Information Technology & Analytics — Rochester Institute of Technology (RIT)  
+🎓 B.E. Electronics & Telecommunication — SIES GST, Mumbai University
 
-
-
-
-
-
+---
