@@ -18,7 +18,7 @@ I build robust data pipelines and architect scalable data platforms for inflight
 - 🔭 Currently working on **Kafka streaming pipelines**, **Power BI** dashboards, and **legacy system modernization**
 - 🌱 Deepening expertise in **data architecture**, **distributed systems**, and **real-time ingestion**
 - 💬 Ask me about **Python**, **Spark**, **SQL**, **ClickHouse**, or anything data engineering
-- 📫 Reach me at [vp3230@rit.edu](mailto:vp3230@rit.edu) or [LinkedIn](https://www.linkedin.com/in/vikramparmar25/)
+- 📫 Reach me at [parmar.vik25@gmail.com](mailto:parmar.vik25@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vikramparmar25/)
 - ⚡ Fun fact: I debug pipelines faster than I cook 🍅
 
 ---
